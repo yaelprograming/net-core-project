@@ -1,0 +1,96 @@
+{
+    "customers": [
+        {
+            "customerId": 1,
+            "tz": "123456789",
+            "firstName": "John",
+            "lastName": "Doe",
+            "phoneNumber": "0541234567",
+            "email": "john.doe@example.com",
+            "carType": "Sedan",
+            "electric": false,
+            "licensePlate": "123-456-78"
+        },
+        {
+            "customerId": 2,
+            "tz": "987654321",
+            "firstName": "Jane",
+            "lastName": "Smith",
+            "phoneNumber": "0549876543",
+            "email": "jane.smith@example.com",
+            "carType": "SUV",
+            "electric": true,
+            "licensePlate": "456-789-12"
+        }
+    ],
+    "parkingLots": [
+        {
+            "parkingLotId": 1,
+            "parkingLotAddress": "Main St 123",
+            "costForDay": 50.00,
+            "costForHour": 10.00,
+            "emptyOrFull": true,
+            "owner": "City Parking",
+            "amountParkingSpot": 100
+        },
+        {
+            "parkingLotId": 2,
+            "parkingLotAddress": "Market St 45",
+            "costForDay": 40.00,
+            "costForHour": 8.00,
+            "emptyOrFull": false,
+            "owner": "Downtown Parking",
+            "amountParkingSpot": 50
+        }
+    ],
+    "parkingSpots": [
+        {
+            "parkingSpotId": 1,
+            "price": 10.00,
+            "available": true
+        },
+        {
+            "parkingSpotId": 2,
+            "price": 8.00,
+            "available": false
+        }
+    ],
+    "payments": [
+        {
+            "paymentId": 1,
+            "customerId": 1,
+            "parkingId": 1,
+            "totalAmount": 50.00,
+            "paymentMethod": "CreditCard",
+            "discountAmount": 5.00
+        },
+        {
+            "paymentId": 2,
+            "customerId": 2,
+            "parkingId": 2,
+            "totalAmount": 40.00,
+            "paymentMethod": "PayPal",
+            "discountAmount": 0.00
+        }
+    ],
+    "reservations": [
+        {
+            "reservationId": 1,
+            "parkingId": 1,
+            "customerId": 1,
+            "dateReservation": "2024-10-28T10:00:00",
+            "parkingPlaceId": 1,
+            "parkingHours": 3,
+            "departureTime": 13
+        },
+        {
+            "reservationId": 2,
+            "parkingId": 2,
+            "customerId": 2,
+            "dateReservation": "2024-10-28T15:00:00",
+            "parkingPlaceId": 2,
+            "parkingHours": 2,
+            "departureTime": 17
+        }
+    ]
+}

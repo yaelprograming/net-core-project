@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ParkingManager.Core\ParkingManager.Core.csproj" />
+    <ProjectReference Include="..\ParkingManager.Data\ParkingManager.Data.csproj" />
+  </ItemGroup>
+
+</Project>
