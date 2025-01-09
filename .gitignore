@@ -7,8 +7,8 @@
 *.userprefs
 
 # Ignore build results
-bin/
-obj/
+# bin/
+# obj/
 
 # Ignore other common files
 *.log

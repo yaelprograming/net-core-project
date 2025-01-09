@@ -1,0 +1,11 @@
+D:\תכנות- לימודים\ו'\net core\ParkingManager\ParkingManager.Core\obj\Debug\net6.0\ParkingManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\תכנות- לימודים\ו'\net core\ParkingManager\ParkingManager.Core\obj\Debug\net6.0\ParkingManager.Core.AssemblyInfoInputs.cache
+D:\תכנות- לימודים\ו'\net core\ParkingManager\ParkingManager.Core\obj\Debug\net6.0\ParkingManager.Core.AssemblyInfo.cs
+D:\תכנות- לימודים\ו'\net core\ParkingManager\ParkingManager.Core\obj\Debug\net6.0\ParkingManager.Core.csproj.CoreCompileInputs.cache
+D:\תכנות- לימודים\ו'\net core\ParkingManager\ParkingManager.Core\bin\Debug\net6.0\ParkingManager.Core.deps.json
+D:\תכנות- לימודים\ו'\net core\ParkingManager\ParkingManager.Core\bin\Debug\net6.0\ParkingManager.Core.dll
+D:\תכנות- לימודים\ו'\net core\ParkingManager\ParkingManager.Core\bin\Debug\net6.0\ParkingManager.Core.pdb
+D:\תכנות- לימודים\ו'\net core\ParkingManager\ParkingManager.Core\obj\Debug\net6.0\ParkingManager.Core.dll
+D:\תכנות- לימודים\ו'\net core\ParkingManager\ParkingManager.Core\obj\Debug\net6.0\refint\ParkingManager.Core.dll
+D:\תכנות- לימודים\ו'\net core\ParkingManager\ParkingManager.Core\obj\Debug\net6.0\ParkingManager.Core.pdb
+D:\תכנות- לימודים\ו'\net core\ParkingManager\ParkingManager.Core\obj\Debug\net6.0\ref\ParkingManager.Core.dll
